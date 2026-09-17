@@ -2,6 +2,7 @@ packages:
   - "anyharness/sdk"
   - "anyharness/sdk-react"
   - "anyharness/tests"
+  - "anyharness/tui"
   - "cloud/sdk"
   - "cloud/sdk-react"
   - "apps/desktop"
